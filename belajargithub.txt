@@ -3,3 +3,4 @@ Jadwal tugas hari ini:
 -Membuat tugas MPTI TRELLO
 -Ngedit video
 -Mengerjakan tugas DPP
+-Mengerjakan laporan DMJK
